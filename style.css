@@ -1,0 +1,18 @@
+header {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 5px;
+}
+
+
+    header img {
+        width: 300px;
+        height: 200px;
+        float: left;
+        margin-right: 10px;
+        margin-top: -20px;
+    }
+
